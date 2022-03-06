@@ -53,7 +53,7 @@ export default class Command extends BaseCommand {
     }
     const buttonMessage: any = {
       contentText: `You might want to check your party.`,
-      footerText: "🎇 Beyond 🎇",
+      footerText: "𝕝𝕖𝕧𝕚 𝕓𝕠𝕥𝕥𝕠",
       buttons: buttons,
       headerType: 1,
     };
