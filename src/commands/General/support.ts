@@ -22,7 +22,7 @@ export default class Command extends BaseCommand {
       ` _*I'M  LEVI*\n\n
         _*LEVI NEWS*_:  https://chat.whatsapp.com/Fnk9vRRcSS8L22L8Bq1GyZ\n\n 
         _*WELCOME TO LEVI BOT. inc *_ https://chat.whatsapp.com/Fnk9vRRcSS8L22L8Bq1GyZ\n\n
-        _*LEVI NSFW*_:https://chat.whatsapp.com/EmfhxmgQhNfIUxiE8NHCvq\n\n 
+        _*LEVI NSFW*_:https://chat.whatsapp.com/KC43a4UytJZ00XE0WXVz7v\n\n 
         
 `,
 
